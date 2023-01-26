@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: FancyTitle;
+    src: url(Tangerine/Tangerine-Regular.ttf);
+}
+.fancy-title {
+    font-family: FancyTitle, sans-serif;
+    font-size: 30pt;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.fancy-salutation {
+    font-family: FancyTitle, sans-serif;
+    font-size: 24pt;
+}
+
+@font-face {
+    font-family: MainText;
+    src: url(EBGarmond/EBGaramond-VariableFont_wght.ttf);
+}
+.hpad {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.vpad {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sub-title {
+    font-family: MainText, serif;
+    font-size: 18pt;
+    color: #333;
+}
+.focus-letter {
+    font-size: 24pt;
+}
+.main-text {
+    font-family: MainText, serif;
+    font-size: 14pt;
+    color: #000;
+    background-color: #ccc;
+}
+.attribution {
+    font-family: MainText, serif;
+    font-size: 14pt;
+    color: #333;
+    text-align: right;
+}
