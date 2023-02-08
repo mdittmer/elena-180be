@@ -8,12 +8,12 @@ body {
 }
 .fancy-title {
     font-family: FancyTitle, sans-serif;
-    font-size: 30pt;
+    font-size: 50px;
     text-shadow: 4px 4px 4px #aaa;
 }
 .fancy-salutation {
     font-family: FancyTitle, sans-serif;
-    font-size: 24pt;
+    font-size: 30px;
 }
 
 @font-face {
@@ -30,21 +30,21 @@ body {
 }
 .sub-title {
     font-family: MainText, serif;
-    font-size: 18pt;
+    font-size: 26px;
     color: #333;
 }
 .focus-letter {
-    font-size: 24pt;
+    font-size: 26px;
 }
 .main-text {
     font-family: MainText, serif;
-    font-size: 14pt;
+    font-size: 19px;
     color: #000;
     background-color: #ccc;
 }
 .attribution {
     font-family: MainText, serif;
-    font-size: 14pt;
+    font-size: 19px;
     color: #333;
     text-align: right;
 }
